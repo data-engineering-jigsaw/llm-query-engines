@@ -1,0 +1,6 @@
+llama-index-vector-stores-qdrant
+llama-index
+transformers[torch]
+qdrant-client
+pypdf
+scikit-learn
